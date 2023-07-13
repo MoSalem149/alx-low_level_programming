@@ -1,1 +1,1 @@
-my first readme
+readme for c project
