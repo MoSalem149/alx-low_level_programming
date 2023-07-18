@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- *Description: is written by mbah
+ * Discription: is written by sandbox
  * Return: Always 0
  */
 
