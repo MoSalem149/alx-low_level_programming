@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - reser_to_98 a funcation that takes a pointer to an int as parameter.
+ * reser_to_98 - a funcation that takes a pointer to an int as parameter.
  * Description: and updates the value it points to 98.
  * @n: input
  * Return: n
