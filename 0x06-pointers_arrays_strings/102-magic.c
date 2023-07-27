@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ * Description: task number 10 advanced.
+ * Return: 0
+ */
 
 int main(void)
 {
