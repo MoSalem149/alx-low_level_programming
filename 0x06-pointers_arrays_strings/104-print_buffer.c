@@ -26,7 +26,7 @@ void print_buffer(char *b, int size)
 		{
 			if (x < y)
 			{
-				printf("%02x", *(b + m + x))
+				printf("%02x", *(b + m + x));
 			}
 			else
 				printf(" ");
@@ -34,6 +34,7 @@ void print_buffer(char *b, int size)
 			{
 				printf(" ");
 			}
+		}
 		for (x = 0; x < y; x++)
 		{
 			int c = *(b + m + x);
