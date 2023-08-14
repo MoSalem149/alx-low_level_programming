@@ -1,1 +1,1 @@
-my first readme
+0x0E. C - Structures, typedef readme file
