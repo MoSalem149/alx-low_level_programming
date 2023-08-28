@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * delete_nodeint_at_imdex - deletes a node
+ * delete_nodeint_at_index - deletes a node
  * @head: pointer
  * @index: index of node
  * Description: task number 10
