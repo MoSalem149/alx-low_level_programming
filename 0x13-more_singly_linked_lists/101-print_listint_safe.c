@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * looped_listint_len - Counts the number of unique nodes
+ * print_listint_safe - Counts the number of unique nodes
  * @head: A pointer
  * Description: task number 12
  * Return:  0 or unique nodes
