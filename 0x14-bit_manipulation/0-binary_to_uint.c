@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * binary_to_unit - convert a binary number to unsign int
+ * binary_to_uint - convert a binary number to unsign int
  * @b: container for binary number
  * Description: task number 0
  * Return: the number after convert
