@@ -3,7 +3,7 @@
 /**
  * clear_bit - sets the val of a given bit to 0
  * @n: pointer to the num
- * @index: index of the bit 
+ * @index: index of the bit
  * Description: task number 4
  * Return: 1 for success or -1 for failure
  */
